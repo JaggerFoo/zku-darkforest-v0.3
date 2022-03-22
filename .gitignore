@@ -3,6 +3,7 @@ client/src/utils/.idea/*
 build/*
 .idea/*
 client/src/.idea/*
+*.gz
 
 # built files
 native-mimc/mimc_function
