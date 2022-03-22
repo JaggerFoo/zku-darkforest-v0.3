@@ -4,6 +4,8 @@ build/*
 .idea/*
 client/src/.idea/*
 *.gz
+*.ptau
+*.zkey
 
 # built files
 native-mimc/mimc_function
